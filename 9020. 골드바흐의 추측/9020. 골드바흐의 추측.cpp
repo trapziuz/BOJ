@@ -6,11 +6,9 @@
 //
 
 #define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
 #include <iostream>
 #include <string>
 using namespace std;
-void bertrand(int n);
 
 int main(){
     ios_base::sync_with_stdio(false);
