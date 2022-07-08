@@ -34,10 +34,20 @@
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
+		<key>10809. 알파벳 찾기.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
 		<key>10869. 사칙연산.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>24</integer>
+		</dict>
+		<key>10870. 피보나치 수 5.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>33</integer>
 		</dict>
 		<key>10872. 팩토리얼.xcscheme_^#shared#^_</key>
 		<dict>
@@ -48,6 +58,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>26</integer>
+		</dict>
+		<key>1152. 단어의 개수.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
 		</dict>
 		<key>1157. 단어 공부.xcscheme_^#shared#^_</key>
 		<dict>
@@ -129,6 +144,11 @@
 			<key>orderHint</key>
 			<integer>17</integer>
 		</dict>
+		<key>2675. 문자열 반복.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>35</integer>
+		</dict>
 		<key>2741. N 찍기.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -163,6 +183,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>12</integer>
+		</dict>
+		<key>5622. 다이얼.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>34</integer>
 		</dict>
 		<key>9020. 골드바흐의 추측.xcscheme_^#shared#^_</key>
 		<dict>
