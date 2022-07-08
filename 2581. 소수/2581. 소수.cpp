@@ -5,7 +5,6 @@
 //  2022/06/26.
 //
 
-#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <string>
 using namespace std;
