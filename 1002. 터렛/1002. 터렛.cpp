@@ -1,11 +1,12 @@
 //
 //  1002. 터렛.cpp
-//
+//  단계별로 풀어보기 (13)
+// 
 //  2022/08/01.
 //
 
 #include <iostream>
-#include <cmath>
+#include <cmath> // 제곱, 제곱근 라이브러리
 using namespace std;
 
 int main(){
