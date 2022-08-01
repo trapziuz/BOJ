@@ -63,17 +63,20 @@ int main(){
         r = sqrt(r);
         
         if(x1 == x2 && y1 == y2 && r1 == 0 && r2 == 0){
-            cout << 1;
+            cout << 1; // (1) 두 터렛의 위치와 목표물의 위치가 동일한 경우
         }
         else if(x1 == x2 && y1 == y2 && r1 == r2){
-            cout << -1;
+            cout << -1; // (2) 두 원이 같은 위치에 있는 같은 크기의 원일 경우
         }
-        else if(r == r1 + r2 || r + r1 == r2 || r + r2 == r1)
-            cout << 1;
-        else if(r > r1 + r2 || r + r1 < r2 || r + r2 < r1)
-            cout << 0;
-        else
-            cout << 2;
+        else if(r == r1 + r2 || r + r1 == r2 || r + r2 == r1){
+            cout << 1; // (3) 두 원이 내접하는 경우 / 두 원이 외접하는 경우
+        }
+        else if(r > r1 + r2 || r + r1 < r2 || r + r2 < r1){
+            cout << 0; // (4) 두 원이 외부에서 두 번 만나는 경우 / 두 원이 내부에서 두 번 만나는 경우
+        }
+        else{
+            cout << 2; // (5) 그 외 모든 경우
+        }
         
         cout << "\n";
         
